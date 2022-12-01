@@ -1,3 +1,10 @@
+# Fork info:
+
+This fork allows use of an instantiated connection as an email backend.
+Useful to let your app use different email settings.
+
+More info here: https://github.com/ui/django-post_office/issues/160
+
 # Django Post Office
 
 Django Post Office is a simple app to send and manage your emails in
